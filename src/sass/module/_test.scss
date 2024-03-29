@@ -1,0 +1,7 @@
+@use "global" as *;
+
+.test {
+  font-size: rem(16);
+  background-color: blue;
+  color: $white;
+}
